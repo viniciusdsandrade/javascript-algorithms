@@ -48,7 +48,5 @@ const numeros6 = [64, 34, 25, 12, 22, 11, 90];
 bubbleSort(numeros6);
 console.log(numeros6); // Saída: [11, 12, 22, 25, 34, 64, 90]
 
-
-
 numerosOrdenados = bubbleSort(numeros6);
 console.log(numerosOrdenados);
