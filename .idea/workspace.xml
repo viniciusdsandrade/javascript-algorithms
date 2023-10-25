@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41a9a7ce-07f6-41cc-b7c3-65d440dbb33d" name="Changes" comment="Feat[RegExp] : Aprendendo Regex">
+      <change afterPath="$PROJECT_DIR$/algoritmos-guanabara/lista_extra_Guanabara_algoritmos.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos-ifba/lista_extra_IFBA_algoritmos.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos-unicamp/lista1-condicionais.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos-unicamp/lista2-lacos.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos-unicamp/lista3-vetores.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos-unicamp/lista4-strings.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos-unicamp/lista5-funcoes.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos-unicamp/lista6-registro-ordenacao.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-notes/1_ListaArmando.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-notes/Array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-notes/Functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-notes/ObjectStudy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-notes/Ordenacao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-notes/RegexEmJs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-notes/desafio01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet-code-solutions/java_leet_code_solutions.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JavaScriptStudy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Algoritmos-Unicamp/lista1-condicionais.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Algoritmos-Unicamp/lista2-lacos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Algoritmos-Unicamp/lista3-vetores.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Algoritmos-Unicamp/lista4-strings.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Algoritmos-Unicamp/lista5-funcoes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Algoritmos-Unicamp/lista6-registro-ordenacao.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Algoritmos-Unicamp/lista_extra_Guanabara_algoritmos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Algoritmos-Unicamp/lista_extra_IFBA_algoritmos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Algoritmos-em-C/Algoritmos-em-linguagem-C.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Algoritmos-em-C/Linguagem C Luis Damas.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/leetcode/java_leet_code_solutions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritmos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaArmando.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectStudy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ordenacao.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegexEmJs.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2VONqTOFrYFpGADY4BhLSYs65EF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "18.18.0",
+    "javascript.nodejs.core.library.typings.version": "18.18.0",
+    "last.edited.regexp": "",
+    "last_opened_file_path": "C:/Users/vinic/OneDrive/Área de Trabalho/JavaScriptStudy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41a9a7ce-07f6-41cc-b7c3-65d440dbb33d" name="Changes" comment="" />
+      <created>1694703360103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694703360103</updated>
+      <workItem from="1694703363589" duration="1139000" />
+      <workItem from="1694722363702" duration="276000" />
+      <workItem from="1695048776154" duration="227000" />
+      <workItem from="1695219461413" duration="56000" />
+      <workItem from="1695219538606" duration="4000" />
+      <workItem from="1695306760924" duration="3093000" />
+      <workItem from="1695562987428" duration="6000" />
+      <workItem from="1695674116642" duration="51000" />
+      <workItem from="1695674183915" duration="7000" />
+      <workItem from="1695739228041" duration="32000" />
+      <workItem from="1696343579068" duration="3228000" />
+      <workItem from="1696351557268" duration="158000" />
+      <workItem from="1696351726344" duration="108000" />
+      <workItem from="1696456783636" duration="18000" />
+      <workItem from="1696456812553" duration="153000" />
+      <workItem from="1696517423771" duration="1757000" />
+      <workItem from="1696524155536" duration="46000" />
+      <workItem from="1696538473454" duration="405000" />
+      <workItem from="1696612477767" duration="331000" />
+      <workItem from="1696948204517" duration="36000" />
+      <workItem from="1696948257121" duration="2496000" />
+      <workItem from="1696955500423" duration="15000" />
+      <workItem from="1696955545810" duration="7000" />
+      <workItem from="1697300947163" duration="197000" />
+      <workItem from="1697419267798" duration="3600000" />
+      <workItem from="1697542794150" duration="9000" />
+      <workItem from="1697542804452" duration="7000" />
+      <workItem from="1698199649057" duration="9000" />
+    </task>
+    <task id="LOCAL-00001" summary="Build[Algoritmos] Lista de exercícios">
+      <option name="closed" value="true" />
+      <created>1694722635838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694722635838</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Feat[Algoritmos] : Alguns Exercícios com Funções">
+      <option name="closed" value="true" />
+      <created>1695309815947</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695309815947</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Feat[Algoritmos] : Alguns Exercícios com Objetos">
+      <option name="closed" value="true" />
+      <created>1696351828182</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696351828182</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Feat[Algoritmos] : Exercicios de ordenação">
+      <option name="closed" value="true" />
+      <created>1696538491125</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696538491125</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Feat[RegExp] : Aprendendo Regex">
+      <option name="closed" value="true" />
+      <created>1696950762424</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696950762424</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="Build[Algoritmos] Lista de exercícios" />
+    <MESSAGE value="Feat[Algoritmos] : Alguns Exercícios com Funções" />
+    <MESSAGE value="Feat[Algoritmos] : Alguns Exercícios com Objetos" />
+    <MESSAGE value="Feat[Algoritmos] : Exercicios de ordenação" />
+    <MESSAGE value="Feat[RegExp] : Aprendendo Regex" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat[RegExp] : Aprendendo Regex" />
+  </component>
+</project>
